@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pdatrika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pdatrika\\.nuget\\packages"
+    ]
+  }
+}
